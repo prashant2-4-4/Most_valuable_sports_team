@@ -7,3 +7,6 @@ It contains 50 most valuable Sports team of World.
 Explore this Dataset and you will find interesting things.
 
 One thing that I noticed is Real Madrid or Barcelona are not richest club and there are no IPL team there :)
+
+You can Access this dataset on kaggle
+https://www.kaggle.com/datasets/prashantpathak244/most-valuable-sports-team
